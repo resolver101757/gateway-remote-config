@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "eui-b827ebfffe9046fd",
+    "servers": [
+      {
+        "server_address": "ttn-router-eu",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 0,
+    "ref_longitude": 0,
+    "ref_altitude": 0,
+    "contact_email": "Kelster101757@hotmail.com",
+    "description": "Sheffield hackspaces rak 831"
+  }
+}
